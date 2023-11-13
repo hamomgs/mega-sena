@@ -51,7 +51,7 @@ Caso esteja usando o Eclipse como editor de código:
 1. Abra o Eclipse.
 2. Importe o projeto Java para o Eclipse.
    - Clique em File > Import > General > Existing Projects into Workspace.
-   - Selecione a pasta do projeto e clique em Finish.
+   - Selecione a pasta do projeto `MegaSena` e clique em Finish.
 3. Clique com o botão direito do mouse no projeto e selecione Run as > Java Application.
 4. O Eclipse irá compilar e executar o programa. (Vá para o tópico "🕹️ Como Jogar")
 
