@@ -50,7 +50,7 @@ public class MegaSena {
 					System.err.println("Insira um número entre 0 e " + (limite - 1));
 					i--;
 				}
-			} catch (InputMismatchException | ArithmeticException e) {
+			} catch (InputMismatchException e) {
 				System.err.println("Insira um número válido.");
 				sc.next();
 				i--;
